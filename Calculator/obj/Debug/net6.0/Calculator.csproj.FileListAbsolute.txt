@@ -1,0 +1,15 @@
+D:\Dokumen\Tugas\Pemrograman\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\Dokumen\Tugas\Pemrograman\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumen\Tugas\Pemrograman\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\Dokumen\Tugas\Pemrograman\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\Dokumen\Tugas\Pemrograman\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Dokumen\Tugas\Pemrograman\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\Dokumen\Tugas\Pemrograman\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\Dokumen\Tugas\Pemrograman\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\Dokumen\Tugas\Pemrograman\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\Dokumen\Tugas\Pemrograman\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\Dokumen\Tugas\Pemrograman\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\Dokumen\Tugas\Pemrograman\Calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+D:\Dokumen\Tugas\Pemrograman\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\Dokumen\Tugas\Pemrograman\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+D:\Dokumen\Tugas\Pemrograman\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
